@@ -1,0 +1,14 @@
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/BooleanMaskExtractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/IntExtractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/BooleanCompareExtractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/SidExtractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/DateToStringExctractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/AttributeFilterStorage.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/IAttributeValueExtractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/TimeStampFormatExtractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/StringExtractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/TimeStampExtractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/LdapQueryProcessor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/LongToJavaDateExtractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/ObjectGuidExtractor.java
+/Users/ivanklimenko/Projects/nifi-ldap-processor/src/nifi-ldap-processor/nifi-ldap-processors/src/main/java/com/github/klimenkoiv/BooleanExtractor.java
